@@ -1,2 +1,8 @@
 <Solution>
+  <Folder Name="/Lib/">
+    <Project Path="Lib/SpotifyUtils.Lib.csproj" />
+  </Folder>
+  <Folder Name="/XunitTests/">
+    <Project Path="XunitTests/SpotifyUtils.XunitTests.csproj" />
+  </Folder>
 </Solution>
